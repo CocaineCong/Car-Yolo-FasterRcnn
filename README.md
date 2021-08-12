@@ -30,10 +30,7 @@ flask_ocr/
 # Faster-RCNN网络简介
 
 
-
-![image-20210812235553065](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210812235553065.png)
-
-
+![Faster RCNN](https://user-images.githubusercontent.com/57799587/129231534-7e0976c6-219d-4896-a2cc-90857ecc80b0.png)
 
 
 

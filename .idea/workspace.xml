@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f9df3d8-dc9a-4ed1-973d-66df97507779" name="Default Changelist" comment="" />
+    <list default="true" id="8f9df3d8-dc9a-4ed1-973d-66df97507779" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detect/ctpn_predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect/ctpn_predict.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1tIk3w0QRkfO9YlIUwEdNl61RC6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -119,6 +126,11 @@
       <workItem from="1621751195124" duration="397000" />
       <workItem from="1622463799131" duration="3073000" />
       <workItem from="1622562514247" duration="72000" />
+      <workItem from="1627093371696" duration="617000" />
+      <workItem from="1627188481965" duration="160000" />
+      <workItem from="1627316459263" duration="2027000" />
+      <workItem from="1627562753208" duration="414000" />
+      <workItem from="1628781026760" duration="1291000" />
     </task>
     <servers />
   </component>
@@ -126,10 +138,11 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="498" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1622463944884">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="2584" y="92" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1627316584983">
+      <screen x="1920" y="-198" width="2048" height="1112" />
     </state>
     <state x="498" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1622463944884" />
+    <state x="2584" y="92" key="#com.intellij.fileTypes.FileTypeChooser/1920.-198.2048.1112/0.0.1536.824@1920.-198.2048.1112" timestamp="1627316584983" />
     <state width="1493" height="361" key="GridCell.Tab.0.bottom" timestamp="1622562585405">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
